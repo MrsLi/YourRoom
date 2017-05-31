@@ -15,6 +15,9 @@ import room.lipengfei.com.yourroom.fragment.FlatFragment;
 import room.lipengfei.com.yourroom.fragment.HomeFragment;
 import room.lipengfei.com.yourroom.fragment.HomestayFragment;
 import room.lipengfei.com.yourroom.fragment.LodgeFragment;
+/*
+测试提交的注释代码
+ */
 
 public class MainActivity extends AppCompatActivity implements BottomNavigationBar.OnTabSelectedListener {
 
